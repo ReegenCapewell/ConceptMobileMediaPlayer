@@ -1,0 +1,72 @@
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.xml
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.ResolveComReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.addScreen.resources
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.mainProgram.resources
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.helpScreen.resources
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.exe
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.xml
+c:\users\dell\documents\visual studio 2015\Projects\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.pdb
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe.config
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.ResolveComReference.cache
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.exe
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.xml
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.pdb
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbprojResolveAssemblyReference.cache
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.addScreen.resources
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.mainProgram.resources
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.helpScreen.resources
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.Resources.resources
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.GenerateResource.Cache
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.pdb
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.xml
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe.config
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.ResolveComReference.cache
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.exe
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.xml
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.pdb
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.pdb
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.xml
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbprojResolveAssemblyReference.cache
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.addScreen.resources
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.mainProgram.resources
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.helpScreen.resources
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.Resources.resources
+F:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.GenerateResource.Cache
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe.config
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.ResolveComReference.cache
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.exe
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.xml
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.pdb
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.exe
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.pdb
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\UniversalMobileMediaPlayer.xml
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbprojResolveAssemblyReference.cache
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.addScreen.resources
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.mainProgram.resources
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.helpScreen.resources
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.Resources.resources
+G:\College Work\Term 1\Event Driven Programming\UniversalMobileMediaPlayer\UniversalMobileMediaPlayer\obj\Debug\UniversalMobileMediaPlayer.vbproj.GenerateResource.Cache

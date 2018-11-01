@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UniversalMobileMediaPlayer
+</name>
+</assembly>
+<members>
+<member name="T:UniversalMobileMediaPlayer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources._1098_fast_forward_outline_button_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources._5175">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources._8i65B8AXT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.arrow_left_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.pause_button_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.rewind_arrows_circular_button_318_30213">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.sound_volume_speaker_audio_music_mute_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.speaker_1_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.Video_Play_Button_White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalMobileMediaPlayer.My.Resources.Resources.Volume_Low_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
